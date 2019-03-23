@@ -3,6 +3,7 @@
 
 
 #include <qvector.h>
+#include <qpoint.h>
 
 const int POLYGON_POINT_SIZE = 4;
 
