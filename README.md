@@ -1,3 +1,3 @@
-   Demo project utilizing pattern MVC - editor which allows to draw only convex polygons.
+   Demo project utilizing pattern MVC with QT - editor which allows to draw only convex polygons.
 
 
